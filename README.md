@@ -5,6 +5,7 @@
  Utilizes torch_directML (chooses devices with DirectX12 compatibility).
 
 ![Recording2024-07-13112437-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/83c23680-48da-407e-b403-484edfb388d2)
+
 Tested on python 3.10, 3.12
 
 ## Installation
