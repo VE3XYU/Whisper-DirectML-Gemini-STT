@@ -2,7 +2,7 @@
  Speech to text with Gemini API and Whisper DirectML
 
  Allows you to use Whisper without CUDA or ROCM.
- Utilizes DirectML (chooses devices with DirectX12 compatibility).
+ Utilizes torch_directML (chooses devices with DirectX12 compatibility).
 
 ![Recording2024-07-13112437-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/83c23680-48da-407e-b403-484edfb388d2)
 
