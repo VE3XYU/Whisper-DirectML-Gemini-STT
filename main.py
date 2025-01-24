@@ -60,7 +60,7 @@ class WAVProcessor:
 
         # save to txt
         output_txt = pathname.replace('.wav', '_transcription.txt')
-        with open(output_txt, 'w') as f:
+        with open(output_txt, 'w', encoding='utf-8') as f:
             f.write(full_transcription.strip())
 
         print(f'[+] Transcription saved to: {output_txt}')
